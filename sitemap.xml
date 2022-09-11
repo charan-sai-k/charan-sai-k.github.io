@@ -2,35 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/complete_portfolio/</loc>
+    <loc>http://charan-sai-k.github.io/posts/complete_portfolio/</loc>
     <lastmod>2022-09-11T19:54:02+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://charan-sai-k.github.io/</loc>
     <lastmod>2022-09-11T19:54:02+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://charan-sai-k.github.io/posts/</loc>
     <lastmod>2022-09-11T19:54:02+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/contact/</loc>
+    <loc>http://charan-sai-k.github.io/posts/contact/</loc>
     <lastmod>2022-09-11T19:14:49+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/misc/</loc>
+    <loc>http://charan-sai-k.github.io/posts/misc/</loc>
     <lastmod>2022-09-11T19:14:44+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/skills/</loc>
+    <loc>http://charan-sai-k.github.io/posts/skills/</loc>
     <lastmod>2022-09-11T19:14:36+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/educational_background/</loc>
+    <loc>http://charan-sai-k.github.io/posts/educational_background/</loc>
     <lastmod>2022-09-11T19:14:17+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/work_history/</loc>
+    <loc>http://charan-sai-k.github.io/posts/work_history/</loc>
     <lastmod>2022-09-11T19:14:01+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/first-post/</loc>
-    <lastmod>2022-09-11T18:37:02+05:30</lastmod>
+    <loc>http://charan-sai-k.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://charan-sai-k.github.io/tags/</loc>
   </url>
 </urlset>
