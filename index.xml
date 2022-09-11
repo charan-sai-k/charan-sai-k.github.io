@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 19:54:02 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charan Sai K</title>
+      <link>http://example.org/posts/complete_portfolio/</link>
+      <pubDate>Sun, 11 Sep 2022 19:54:02 +0530</pubDate>
+      
+      <guid>http://example.org/posts/complete_portfolio/</guid>
+      <description>Bangalore, India
+A Software Engineer with a reach in a wide range of technologies with an emphasis on Thin Clients and related technologies, adaptive and flexible to meet the demands of the job and learn a lot from the people he is around.
+Work Experience Software Engineer I5 &amp;ndash;(Oct 2021)&amp;ndash;&amp;gt; I6 Dell Technologies | Aug 2019 - Present
+Unix Developer for Dell ThinOS, VPN stack enhancements, application/daemon development, Audio stack bringup for new platforms, kernel debugging, build management, scripting and addressing security vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/posts/contact/</link>
+      <pubDate>Sun, 11 Sep 2022 19:14:49 +0530</pubDate>
+      
+      <guid>http://example.org/posts/contact/</guid>
+      <description>mobile:	+91 99007 08252 email:	sai.charan830@gmail.com website:	charank.xyz linkedin:	Charan Sai github:	charan-sai-k </description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>http://example.org/posts/misc/</link>
+      <pubDate>Sun, 11 Sep 2022 19:14:44 +0530</pubDate>
+      
+      <guid>http://example.org/posts/misc/</guid>
+      <description>Speaks  English (Primary) Hindi, Telugu (informally)  </description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://example.org/posts/skills/</link>
+      <pubDate>Sun, 11 Sep 2022 19:14:36 +0530</pubDate>
+      
+      <guid>http://example.org/posts/skills/</guid>
+      <description> C/C++, Python, C#, Javascript. Unix, bash, nodejs, Django, ghost, pleroma hugo (made this site myself using it) Teamwork, multitasking and attention to detail Software development  </description>
+    </item>
+    
+    <item>
+      <title>Educational Background</title>
+      <link>http://example.org/posts/educational_background/</link>
+      <pubDate>Sun, 11 Sep 2022 19:14:17 +0530</pubDate>
+      
+      <guid>http://example.org/posts/educational_background/</guid>
+      <description>Bachelor of Technology in Computer Science and EngineeringSikkim Manipal Institute of Technology, Majitar, Sikkim | 2018</description>
+    </item>
+    
+    <item>
+      <title>Work History</title>
+      <link>http://example.org/posts/work_history/</link>
+      <pubDate>Sun, 11 Sep 2022 19:14:01 +0530</pubDate>
+      
+      <guid>http://example.org/posts/work_history/</guid>
+      <description>Software Engineer I6 Dell Technologies | Oct 2021 - Present Unix Developer for Dell ThinOS, VPN stack enhancements, application/daemon development, Audio stack bringup for new platforms, kernel debugging and build management.
+Software Engineer I5 Dell Technologies | Aug 2019 - Oct 2021 Unix Developer for Wyse ThinOS. Facilitated multiple maintenace releases. Activities as dev included enhancements, debugging, scripting and addressing security vulnerabilities.
+Software Engineer True Blue India IT pvt ltd. | Aug 2018 - Aug 2019 Worked in various areas related to software products of Dell&amp;rsquo;s WES.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Sun, 11 Sep 2022 18:37:02 +0530</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
