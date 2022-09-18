@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Charan Sai K</title>
-        <link>http://charan-sai-k.github.io/</link>
-        <description>Recent content on Charan Sai K</description>
+        <title>Abouts on Charan Sai K</title>
+        <link>http://charan-sai-k.github.io/about/</link>
+        <description>Recent content in Abouts on Charan Sai K</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 18 Sep 2022 19:08:15 +0530</lastBuildDate><atom:link href="http://charan-sai-k.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Blog_posts_here</title>
-        <link>http://charan-sai-k.github.io/posts/blog_posts_here/</link>
-        <pubDate>Sun, 18 Sep 2022 19:08:15 +0530</pubDate>
-        
-        <guid>http://charan-sai-k.github.io/posts/blog_posts_here/</guid>
-        <description>&lt;p&gt;the blog posts go here&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 11 Sep 2022 19:54:02 +0530</lastBuildDate><atom:link href="http://charan-sai-k.github.io/about/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Charan Sai K</title>
         <link>http://charan-sai-k.github.io/about/portfolio/</link>
         <pubDate>Sun, 11 Sep 2022 19:54:02 +0530</pubDate>
