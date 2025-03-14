@@ -2,32 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://charan-sai-k.github.io/posts/complete_portfolio/</loc>
-    <lastmod>2022-09-11T19:54:02+05:30</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-02T19:54:02+05:30</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/</loc>
-    <lastmod>2022-09-11T19:54:02+05:30</lastmod>
+    <loc>http://localhost:1313/about/portfolio/</loc>
+    <lastmod>2025-03-02T19:54:02+05:30</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/posts/</loc>
-    <lastmod>2022-09-11T19:54:02+05:30</lastmod>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/posts/contact/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/themes/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-12-16T11:30:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/contact/</loc>
     <lastmod>2022-09-11T19:14:49+05:30</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/posts/misc/</loc>
+    <loc>http://localhost:1313/about/misc/</loc>
     <lastmod>2022-09-11T19:14:44+05:30</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/posts/skills/</loc>
+    <loc>http://localhost:1313/about/skills/</loc>
     <lastmod>2022-09-11T19:14:36+05:30</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/posts/educational_background/</loc>
+    <loc>http://localhost:1313/about/educational_background/</loc>
     <lastmod>2022-09-11T19:14:17+05:30</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/posts/work_history/</loc>
+    <loc>http://localhost:1313/about/work_history/</loc>
     <lastmod>2022-09-11T19:14:01+05:30</lastmod>
   </url><url>
-    <loc>http://charan-sai-k.github.io/categories/</loc>
-  </url><url>
-    <loc>http://charan-sai-k.github.io/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

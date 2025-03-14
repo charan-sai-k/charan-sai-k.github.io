@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Charan Sai K</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Charan Sai K</description>
+    <title>About on Charan Sai K</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on Charan Sai K</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Charan Sai K © {year}</copyright>
     <lastBuildDate>Sun, 02 Mar 2025 19:54:02 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charan Sai K</title>
       <link>http://localhost:1313/about/portfolio/</link>
       <pubDate>Sun, 02 Mar 2025 19:54:02 +0530</pubDate>
       <guid>http://localhost:1313/about/portfolio/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a goal-oriented software engineer with 6 years of experience in building and maintaining software. I pride myself on being a problem solver, always striving to find the most efficient solutions. I am highly skilled in communication, collaboration, and generating technical documentation, ensuring smooth workflows and clear project guidelines. My efforts are focused on amplifying the capabilities and productivity of the entire team.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;software-engineer&#34;&gt;Software Engineer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cisco | Nov 2023 - Present&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test post</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;h1 id=&#34;test-post&#34;&gt;Test Post&lt;/h1&gt;&#xA;&lt;h2 id=&#34;just-a-test&#34;&gt;Just a test&lt;/h2&gt;&#xA;&lt;p&gt;Simply a test.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
